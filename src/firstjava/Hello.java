@@ -3,8 +3,7 @@ package firstjava;
 public  class Hello {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
-		//boolean flag = true;
-		  String str = "one";
+		  String str = "two";
 		  switch(str){
 			case "one":
 				System.out.println("this is one");
@@ -16,7 +15,6 @@ public  class Hello {
 			    System.out.println("Not find !!");
 				break;
 				}
-		  // int sum = 0;
 		   int x = 0, y = 0;
 		   for(x = 1;x <= 9;x++){
 			 for(y = 1;y <= x; y++){
